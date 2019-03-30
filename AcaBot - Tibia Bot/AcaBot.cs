@@ -2,7 +2,7 @@
 
 namespace AcaBot___Tibia_Bot
 {
-    class Program
+    class AcaBot
     {
         static void Main(string[] args)
         {
